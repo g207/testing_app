@@ -29,10 +29,10 @@ source.include_exts = py,png,jpg,kv,atlas
 # version.filename = %(source.dir)s/main.py
 
 # (str) Application versioning (method 2)
-version = 0.9
+version = 1.0
 
 # (list) Application requirements
-requirements = python3, kivy, plyer, python-for-android
+requirements = python3, kivy, plyer, android, python-for-android
 
 # (str) Presplash of the application
 #presplash.filename = %(source.dir)s/data/presplash.png
